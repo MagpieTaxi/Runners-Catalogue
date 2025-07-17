@@ -1,6 +1,7 @@
 [
     {
         "name":"PARKOUR Legacy",
+        "description":"One of the very first Parkour games created on Roblox. Often credited as the game that really set off the entire genre. Originally based on Mirror's Edge, but has diverted from that path so much, and become its own thing. Heavily defined by speed gameplay and time trials.",
         "creator":"A Mongoose Studio",
         "gamePage":"445664957",
         "gameIcon":"rbxassetid://137892988327211",
@@ -10,6 +11,7 @@
     },
     {
         "name":"PARKOUR Reborn",
+        "description":"A spiritual successor to PARKOUR Legacy, and one of the highest-quality Parkour games that currently exists. Super flowy gameplay, with great slow and fast gameplay alike. Costs 350 robux to buy access.",
         "creator":"A Mongoose Studio",
         "gamePage":"11639495622",
         "gameIcon":"rbxassetid://81265656921197",
@@ -19,6 +21,7 @@
     },
     {
         "name":"Pacer",
+        "description":"Meant to be very similar to beatrun. Was originally created in 2024, but was only released to the public in mid-2025, due to several development and dexxing issues. Very good movement, very poor map.",
         "creator":"kt|sps",
         "gamePage":"17688527266",
         "gameIcon":"rbxassetid://138066354617686",
@@ -28,6 +31,7 @@
     },
     {
         "name":"Dying2Parkour",
+        "description":"Heavily based on and inspired by the Dying Light franchise. Very high quality, but highly lacking in content. Costs 1500 robux to buy access.",
         "creator":"RedScarf Studios",
         "gamePage":"18803917838",
         "gameIcon":"rbxassetid://85579498904354",
@@ -37,6 +41,7 @@
     },
     {
         "name":"Untitled Parkour Game",
+        "description":"Acts as a successor and/or remake of Parkour Goofy, after it was discontinued. Inspired by PARKOUR Reborn, and has developed its own small community.",
         "creator":"A Silly Studio",
         "gamePage":"16166423027",
         "gameIcon":"rbxassetid://79349699302111",
@@ -46,6 +51,7 @@
     },
     {
         "name":"District Cascade",
+        "description":"District Cascade is almost entirely based on the high-speed gameplay pioneered by PARKOUR Legacy. Feels very much like a sandbox parkour game. There really are no forces to ground you in this game.",
         "creator":"FIERYAUTO",
         "gamePage":"12507949635",
         "gameIcon":"rbxassetid://103464602185527",
