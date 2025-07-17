@@ -40,6 +40,26 @@
         "stage":"Alpha"
     },
     {
+        "name":"Argon",
+        "description":"Heavily inspired by Parkour Reborn. Can't comment much about the gameplay as the game is privated. A public stress test will be sometime soon, check on their pages for updates on when that is.",
+        "creator":"Catbrew",
+        "gamePage":"15474292384",
+        "gameIcon":"rbxassetid://79643665355178",
+        "style":"Reborn",
+        "availability":"Private",
+        "stage":"Indev"
+    },
+    {
+        "name":"ADRENALINE",
+        "description":"Almost entirely based on the Mirror's Edge series. The map looks almost like it came directly from the game. The gameplay also looks incredibly similar to Mirror's Edge.",
+        "creator":"RUSH Labs",
+        "gamePage":"18874188242",
+        "gameIcon":null,
+        "style":"Mirror's Edge",
+        "availability":"Private",
+        "stage":"Indev"
+    },
+    {
         "name":"Untitled Parkour Game",
         "description":"Acts as a successor and/or remake of Parkour Goofy, after it was discontinued. Inspired by PARKOUR Reborn, and has developed its own small community.",
         "creator":"A Silly Studio",
