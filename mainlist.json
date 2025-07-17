@@ -3,7 +3,8 @@
         "name":"PARKOUR Legacy",
         "creator":"A Mongoose Studio",
         "gamePage":"https://www.roblox.com/games/445664957",
-        "style":"Legacy-like",
+        "gameIcon":"rbxassetid://137892988327211",
+        "style":"Legacy",
         "availability":"Public",
         "stage":"Release"
     },
@@ -11,8 +12,45 @@
         "name":"PARKOUR Reborn",
         "creator":"A Mongoose Studio",
         "gamePage":"https://www.roblox.com/games/11639495622",
-        "style":"Reborn-like",
+        "gameIcon":"rbxassetid://81265656921197",
+        "style":"Reborn",
         "availability":"Paid",
         "stage":"Alpha"
+    },
+    {
+        "name":"Pacer",
+        "creator":"kt|sps",
+        "gamePage":"https://www.roblox.com/games/17688527266/",
+        "gameIcon":"rbxassetid://138066354617686",
+        "style":"Beatrun",
+        "availability":"Public",
+        "stage":"Release"
+    },
+    {
+        "name":"Dying2Parkour",
+        "creator":"RedScarf Studios",
+        "gamePage":"https://www.roblox.com/games/18803917838",
+        "gameIcon":"rbxassetid://85579498904354",
+        "style":"Dying Light",
+        "availability":"Paid",
+        "stage":"Alpha"
+    },
+    {
+        "name":"Untitled Parkour Game",
+        "creator":"A Silly Studio",
+        "gamePage":"https://www.roblox.com/games/16166423027",
+        "gameIcon":"rbxassetid://79349699302111",
+        "style":"Dying Light",
+        "availability":"Paid",
+        "stage":"Alpha"
+    },
+    {
+        "name":"District Cascade",
+        "creator":"FIERYAUTO",
+        "gamePage":"https://www.roblox.com/games/12507949635",
+        "gameIcon":"rbxassetid://103464602185527",
+        "style":"Legacy",
+        "availability":"Public",
+        "stage":"Release"
     }
 ]
