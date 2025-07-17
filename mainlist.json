@@ -1,14 +1,18 @@
 [
     {
         "name":"PARKOUR Legacy",
-        "reator":"A Mongoose Studio",
+        "creator":"A Mongoose Studio",
         "gamePage":"https://www.roblox.com/games/445664957",
-        "style":"Legacy-like"
+        "style":"Legacy-like",
+        "availability":"Public",
+        "stage":"Release"
     },
     {
         "name":"PARKOUR Reborn",
-        "reator":"A Mongoose Studio",
+        "creator":"A Mongoose Studio",
         "gamePage":"https://www.roblox.com/games/11639495622",
-        "style":"Reborn-like"
+        "style":"Reborn-like",
+        "availability":"Paid",
+        "stage":"Alpha"
     }
 ]
