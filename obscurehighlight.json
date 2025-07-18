@@ -1,11 +1,21 @@
 [
     {
-        "name":"PARKOUR Legacy",
-        "description":"One of the very first Parkour games created on Roblox. Often credited as the game that really set off the entire genre. Originally based on Mirror's Edge, but has diverted from that path so much, and become its own thing. Heavily defined by speed gameplay and time trials.",
-        "creator":"A Mongoose Studio",
-        "gamePage":"445664957",
-        "gameIcon":"rbxassetid://137892988327211",
-        "style":"Legacy",
+        "name":"Parkour Unleashed",
+        "description":"Absolute hidden gem of a game. The gameplay isnt amazing, and it's quite lacking in content, but there is a full, high-quality map to explore, and many staple features like time trials. Definitely give it a try if you haven't.",
+        "creator":"Just_Drak (@Bernardoinfo)",
+        "gamePage":"17580628080",
+        "gameIcon":"rbxassetid://87384728881356",
+        "style":"Reborn",
+        "availability":"Public",
+        "stage":"Release"
+    },
+    {
+        "name":"Exordium",
+        "description":"Almost predating PARKOUR Legacy, this is one of the first Parkour projects to date. Heavily based off of the Mirror's Edge series, this game has a full gearless moveset and a fully traversable map. It contains time trials, and a 'bag hunting' mode.",
+        "creator":"Pumpkin Head Studios",
+        "gamePage":"599115627",
+        "gameIcon":"rbxassetid://107502799504438",
+        "style":"Mirror's Edge",
         "availability":"Public",
         "stage":"Release"
     }
