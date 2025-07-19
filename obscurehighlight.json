@@ -18,5 +18,25 @@
         "style":"Mirror's Edge",
         "availability":"Public",
         "stage":"Release"
+    },
+    {
+        "name":"Faithful",
+        "description":"A brand new game by development group Xource Horizon. Seems to be heavily based on Mirror's Edge/Beatrun, like their other games. Let's hope this one doesn't get cancelled.",
+        "creator":"Xource Horizon",
+        "gamePage":"85007555422372",
+        "gameIcon":"rbxassetid://75298879610308",
+        "style":"Beatrun",
+        "availability":"Private",
+        "stage":"Indev"
+    },
+    {
+        "name":"Freeflow",
+        "description":"Beatrun-like game made by DumbFounded. In very early development. Has good movement and map stylization, and many talented developers helping the project. Very promising.",
+        "creator":"NDM Development",
+        "gamePage":"137591727198853",
+        "gameIcon":"rbxassetid://111901590180583",
+        "style":"Beatrun",
+        "availability":"Private",
+        "stage":"Indev"
     }
 ]
