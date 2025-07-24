@@ -7,5 +7,14 @@
         "style":"Mirror's Edge",
         "availability":"Public",
         "stage":"Alpha"
+    },
+    {
+        "name":"District Cascade Remake",
+        "description":"The successor game to District Cascade. Meant to be much more refined, while still keeping the high-speed gameplay that District Cascade is known for. Currently just a movement build.",
+        "creator":"Snowy",
+        "gamePage":"17701724576",
+        "style":"Reborn-Legacy",
+        "availability":"Public",
+        "stage":"Pre-Alpha"
     }
 ]
