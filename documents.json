@@ -6,19 +6,9 @@
             "selectTitle":"Genre History",
             "title":"The History of Parkour on Roblox",
             "contents":[
-                "This is a test document."
-            ],
-            "footer":"MagpieTaxi, 7/26/2025"
-        }
-    },
-    "designPhilosophy":{
-        "selectTitle":"Design Philosophy",
-        "title":"Parkour Design Philosophy",
-        "slide":{
-            "selectTitle":"Sliding",
-            "title":"How to Make a Good Slide",
-            "contents":[
-                "This is a test document."
+                "Parkour as a genre on Roblox has a massive history, starting in ~2016 and lasting all the way to today.<br /><br />It all starts with the release of Mirror's Edge, in 2008. This game was one of the first to feature Parkour and movement as we know it today as its main theme. It laid out the groundwork for many staples of the genre we know today. It was the game that inspired most early parkour games on Roblox.",
+                "The main Roblox game that really started and popularized the genre is PARKOUR Legacy. It was made in 2016, and truly defined most of the ideas that we use to think about parkour. Legacy was the game that introduced the Grappler, Wallrun dashing, the Charge mechanic, and wallkicking.<br /><br />In 2019, in the 1.44 update, Legacy added the Grappler. Upon use, it would shoot out a rope that would pull you towards the surface the rope is attached to. This gear would go on to become the most common gear implemented in Parkour games.<br /><br />Grappler was not commonly used until version 1.74, when Wallrun Dashing was implemented. performing a wallrun and then immediately jumping out of it would multiply horizontal velocity. When this was discovered, it completely changed the meta of the game to favor it. Prior to this, the gameplay was much slower and more grounded. People would rarely ever exceed regular running speed. After wallrun dashing, common gameplay was using it to go as fast as possible. This turned the game from a casual mirror's edge clone, to something entirely distinct.",
+                "After wallrun dashing, the face of 'Parkour' as a genre completely changed. It became a high-skill, competitive game based on going as fast as possible. The usage of time trials was heavily reinforced, and continues to keep the genre alive today."
             ],
             "footer":"MagpieTaxi, 7/26/2025"
         }
