@@ -1,4 +1,19 @@
 {
+    "rcNews":{
+        "selectTitle":"RC Info",
+        "title":"Runner's Catalogue Info & News",
+        "updatePlans":{
+            "selectTitle":"Future?",
+            "title":"The future of Runner's Catalogue",
+            "contents":[
+                "Hey everyone!<br />I know the game may look a bit bare-bones right now, and thats because you're likely one of the first few people to play it! Thank you for giving this odd project of mine a shot.<br /><br />As for what the future of this game holds, I'm likely going to continue to add more features and polish up some stuff that's already in the game, but that likely won't last forever. Once this game is done, it's done.<br /><br />Though, that doesn't mean it will be completely done.<br />A main idea of this game is to have it be sort of community-ran. The 'submission form' feature will be expanded on in the future to allow for more stuff to be 'submitted' and added to the game. This will never stop.",
+                "So what am I planning on adding?<br />Sometime soon, I'd like to add some audio logs (think documents but read aloud), as well as more written documents and features for the written documents. I may also allow other people to publish their own documents later on, so if you'd like a paper you've written in the game, don't hesitate to contact me.",
+                "After I finish up that, I'm planning on adding some more features to the game selection page.<br />The games list will have a searchbar, as well as tags, to help you find games with certain characteristics that you may enjoy. As well as that, I'd also like to add some sort of 'user reviews' in some form. It could be done in several ways, and I'm currently thinking of making it either a star rating, written reviews, or both.",
+                "Thank you for your support, and I hope to see more from the community in the future."
+            ],
+            "footer":"MagpieTaxi, 7/26/2025"
+        }
+    },
     "parkourHistory":{
         "selectTitle":"History",
         "title":"Parkour History",
