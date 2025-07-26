@@ -1,7 +1,22 @@
 {
-    "Parkour History": {
-        "Genre History":{
+    "parkourHistory":{
+        "selectTitle":"History",
+        "title":"Parkour History",
+        "genreHistory":{
+            "selectTitle":"Genre History",
             "title":"The History of Parkour on Roblox",
+            "contents":[
+                "This is a test document."
+            ],
+            "footer":"MagpieTaxi, 7/26/2025"
+        }
+    },
+    "designPhilosophy":{
+        "selectTitle":"Design Philosophy",
+        "title":"Parkour Design Philosophy",
+        "slide":{
+            "selectTitle":"Sliding",
+            "title":"How to Make a Good Slide",
             "contents":[
                 "This is a test document."
             ],
