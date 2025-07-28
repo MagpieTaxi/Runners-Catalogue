@@ -38,5 +38,13 @@
         "style":"Beatrun",
         "availability":"Private",
         "stage":"Indev"
+    },
+    {
+        "name":"Rinnox",
+        "description":"Surrealistic movement emphasizing speed, similar to UPG's gameplay. In active development but currently private.",
+        "creator":"Dream's Entertainment",
+        "gamePage":"124218382459762",
+        "availability":"Private",
+        "stage":"Indev"
     }
 ]
