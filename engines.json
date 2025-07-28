@@ -16,5 +16,61 @@
         "style":"Reborn-Legacy",
         "availability":"Public",
         "stage":"Pre-Alpha"
+    },
+    {
+        "name":"DECAY",
+        "description":"N/A",
+        "creator":"Xource Horizon",
+        "gamePage":"91577092574637",
+        "availability":"Public",
+        "stage":"Discontinued"
+    },
+    {
+        "name":"Looking Glass",
+        "description":"N/A",
+        "creator":"FlowerBoy",
+        "gamePage":"136526090971555",
+        "availability":"Public",
+        "stage":"Indev"
+    },
+    {
+        "name":"MOMENTUM",
+        "description":"press X lol",
+        "creator":"Tobinated",
+        "gamePage":"83877223908503",
+        "availability":"Public",
+        "stage":"Discontinued"
+    },
+    {
+        "name":"ParkourA",
+        "description":"N/A",
+        "creator":"Cally",
+        "gamePage":"130311012998898",
+        "availability":"Public",
+        "stage":"Discontinued"
+    },
+    {
+        "name":"Velocity",
+        "description":"N/A",
+        "creator":"TopHat",
+        "gamePage":"17638682577",
+        "availability":"Public",
+        "stage":"Discontinued"
+    },
+    {
+        "name":"Freerun!",
+        "description":"Controls are weird.",
+        "creator":"OutGames",
+        "gamePage":"103939967246281",
+        "availability":"Public",
+        "stage":"Indev"
+    },
+    {
+        "name":"Mirage",
+        "description":"N/A",
+        "creator":"daddoud",
+        "gamePage":"15656876067",
+        "availability":"Public",
+        "stage":"Indev"
     }
 ]
