@@ -32,7 +32,7 @@
         "availability":"Public",
         "stage":"Release",
         "tags":[
-            "time-trials"
+            "time-trials","flow"
         ]
     },
     {
@@ -42,7 +42,10 @@
         "gamePage":"18803917838",
         "gameIcon":"rbxassetid://85579498904354",
         "availability":"Paid",
-        "stage":"Alpha"
+        "stage":"Alpha",
+        "tags":[
+            "flow"
+        ]
     },
     {
         "name":"Argon",
