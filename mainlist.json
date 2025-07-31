@@ -20,7 +20,7 @@
         "availability":"Paid",
         "stage":"Alpha",
         "tags":[
-            "time-trials","gear","social","good-map"
+            "time-trials","gear","social","good-map","flow"
         ]
     },
     {
@@ -30,7 +30,10 @@
         "gamePage":"17688527266",
         "gameIcon":"rbxassetid://138066354617686",
         "availability":"Public",
-        "stage":"Release"
+        "stage":"Release",
+        "tags":[
+            "time-trials"
+        ]
     },
     {
         "name":"Dying2Parkour",
@@ -66,7 +69,10 @@
         "gamePage":"16166423027",
         "gameIcon":"rbxassetid://79349699302111",
         "availability":"Public",
-        "stage":"Alpha"
+        "stage":"Alpha",
+        "tags":[
+            "gear","speed","good-map"
+        ]
     },
     {
         "name":"District Cascade",
@@ -75,7 +81,10 @@
         "gamePage":"12507949635",
         "gameIcon":"rbxassetid://103464602185527",
         "availability":"Public",
-        "stage":"Release"
+        "stage":"Release",
+        "tags":[
+            "gear","speed","time-trials"
+        ]
     },
     {
         "name":"Runner's Path",
@@ -84,6 +93,9 @@
         "gamePage":"1120590242",
         "gameIcon":"rbxassetid://115385338458745",
         "availability":"Public",
-        "stage":"Release"
+        "stage":"Release",
+        "tags":[
+            "time-trials"
+        ]
     }
 ]

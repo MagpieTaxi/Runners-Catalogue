@@ -4,7 +4,6 @@
         "description":"Meant to be a recreation of the engine from Mirror's Edge, and does well with that. Currently discontinued and not planned to be updated.",
         "creator":"JunkBunz",
         "gamePage":"10706220045",
-        "style":"Mirror's Edge",
         "availability":"Public",
         "stage":"Alpha"
     },
@@ -13,9 +12,11 @@
         "description":"The successor game to District Cascade. Meant to be much more refined, while still keeping the high-speed gameplay that District Cascade is known for. Currently just a movement build.",
         "creator":"Snowy",
         "gamePage":"17701724576",
-        "style":"Reborn-Legacy",
         "availability":"Public",
-        "stage":"Pre-Alpha"
+        "stage":"Pre-Alpha",
+        "tags":[
+            "speed","flow","gear"
+        ]
     },
     {
         "name":"DECAY",

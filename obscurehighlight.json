@@ -5,9 +5,11 @@
         "creator":"Just_Drak (@Bernardoinfo)",
         "gamePage":"17580628080",
         "gameIcon":"rbxassetid://87384728881356",
-        "style":"Reborn",
         "availability":"Public",
-        "stage":"Release"
+        "stage":"Release",
+        "tags":[
+            "good-map","speed"
+        ]
     },
     {
         "name":"Exordium",
@@ -15,9 +17,11 @@
         "creator":"Pumpkin Head Studios",
         "gamePage":"599115627",
         "gameIcon":"rbxassetid://107502799504438",
-        "style":"Mirror's Edge",
         "availability":"Public",
-        "stage":"Release"
+        "stage":"Release",
+        "tags":[
+            "time-trials","good-map"
+        ]
     },
     {
         "name":"Faithful",
@@ -25,7 +29,6 @@
         "creator":"Xource Horizon",
         "gamePage":"85007555422372",
         "gameIcon":"rbxassetid://75298879610308",
-        "style":"Beatrun",
         "availability":"Private",
         "stage":"Indev"
     },
@@ -35,7 +38,6 @@
         "creator":"NDM Development",
         "gamePage":"137591727198853",
         "gameIcon":"rbxassetid://111901590180583",
-        "style":"Beatrun",
         "availability":"Private",
         "stage":"Indev"
     },
