@@ -5,9 +5,11 @@
         "creator":"A Mongoose Studio",
         "gamePage":"445664957",
         "gameIcon":"rbxassetid://137892988327211",
-        "style":"Legacy",
         "availability":"Public",
-        "stage":"Release"
+        "stage":"Release",
+        "tags":[
+            "speed","time-trials","gear","social"
+        ]
     },
     {
         "name":"PARKOUR Reborn",
@@ -15,9 +17,11 @@
         "creator":"A Mongoose Studio",
         "gamePage":"11639495622",
         "gameIcon":"rbxassetid://81265656921197",
-        "style":"Reborn",
         "availability":"Paid",
-        "stage":"Alpha"
+        "stage":"Alpha",
+        "tags":[
+            "time-trials","gear","social","good-map"
+        ]
     },
     {
         "name":"Pacer",
@@ -25,7 +29,6 @@
         "creator":"kt|sps",
         "gamePage":"17688527266",
         "gameIcon":"rbxassetid://138066354617686",
-        "style":"Beatrun",
         "availability":"Public",
         "stage":"Release"
     },
@@ -35,7 +38,6 @@
         "creator":"RedScarf Studios",
         "gamePage":"18803917838",
         "gameIcon":"rbxassetid://85579498904354",
-        "style":"Dying Light",
         "availability":"Paid",
         "stage":"Alpha"
     },
@@ -45,7 +47,6 @@
         "creator":"Catbrew",
         "gamePage":"15474292384",
         "gameIcon":"rbxassetid://79643665355178",
-        "style":"Reborn",
         "availability":"Private",
         "stage":"Indev"
     },
@@ -55,7 +56,6 @@
         "creator":"RUSH Labs",
         "gamePage":"18874188242",
         "gameIcon":null,
-        "style":"Mirror's Edge",
         "availability":"Private",
         "stage":"Indev"
     },
@@ -65,7 +65,6 @@
         "creator":"A Silly Studio",
         "gamePage":"16166423027",
         "gameIcon":"rbxassetid://79349699302111",
-        "style":"Reborn-Legacy",
         "availability":"Public",
         "stage":"Alpha"
     },
@@ -75,7 +74,6 @@
         "creator":"Snowy",
         "gamePage":"12507949635",
         "gameIcon":"rbxassetid://103464602185527",
-        "style":"Legacy",
         "availability":"Public",
         "stage":"Release"
     },
@@ -85,7 +83,6 @@
         "creator":"Flow Development",
         "gamePage":"1120590242",
         "gameIcon":"rbxassetid://115385338458745",
-        "style":"Mirror's Edge",
         "availability":"Public",
         "stage":"Release"
     }
