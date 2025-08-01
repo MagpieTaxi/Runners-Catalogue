@@ -88,6 +88,17 @@
         ]
     },
     {
+        "name":"Stride",
+        "description":"N/A",
+        "creator":"wate_rboy",
+        "gamePage":"115269253265834",
+        "availability":"Public",
+        "stage":"Alpha",
+        "tags":[
+            "public","free","gear","flow","time-trials"
+        ]
+    },
+    {
         "name":"Mirage",
         "description":"N/A",
         "creator":"daddoud",

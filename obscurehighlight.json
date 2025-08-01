@@ -36,6 +36,17 @@
         ]
     },
     {
+        "name":"Adrenaline",
+        "description":"N/A",
+        "creator":"zlpds",
+        "gamePage":"107205390939183",
+        "availability":"Public",
+        "stage":"Beta",
+        "tags":[
+            "public","free","time-trials","gear","speed"
+        ]
+    },
+    {
         "name":"Freeflow",
         "description":"In very early development. Movement techniques similar to Beatrun, with more focus on speed.",
         "creator":"NDM Development",
