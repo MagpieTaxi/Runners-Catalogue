@@ -5,7 +5,10 @@
         "creator":"JunkBunz",
         "gamePage":"10706220045",
         "availability":"Public",
-        "stage":"Alpha"
+        "stage":"Alpha",
+        "tags":[
+            "public","free"
+        ]
     },
     {
         "name":"District Cascade Remake",
@@ -15,7 +18,7 @@
         "availability":"Public",
         "stage":"Pre-Alpha",
         "tags":[
-            "speed","flow","gear"
+            "speed","flow","gear","public","free"
         ]
     },
     {
@@ -24,7 +27,10 @@
         "creator":"Xource Horizon",
         "gamePage":"91577092574637",
         "availability":"Public",
-        "stage":"Discontinued"
+        "stage":"Discontinued",
+        "tags":[
+            "public","free","flow"
+        ]
     },
     {
         "name":"Looking Glass",
@@ -32,7 +38,10 @@
         "creator":"FlowerBoy",
         "gamePage":"136526090971555",
         "availability":"Public",
-        "stage":"Indev"
+        "stage":"Indev",
+        "tags":[
+            "public","flow","free"
+        ]
     },
     {
         "name":"MOMENTUM",
@@ -40,7 +49,10 @@
         "creator":"Tobinated",
         "gamePage":"83877223908503",
         "availability":"Public",
-        "stage":"Discontinued"
+        "stage":"Discontinued",
+        "tags":[
+            "public","flow","free"
+        ]
     },
     {
         "name":"ParkourA",
@@ -48,7 +60,10 @@
         "creator":"Cally",
         "gamePage":"130311012998898",
         "availability":"Public",
-        "stage":"Discontinued"
+        "stage":"Discontinued",
+        "tags":[
+            "public","flow","free"
+        ]
     },
     {
         "name":"Velocity",
@@ -56,7 +71,10 @@
         "creator":"TopHat",
         "gamePage":"17638682577",
         "availability":"Public",
-        "stage":"Discontinued"
+        "stage":"Discontinued",
+        "tags":[
+            "public","free"
+        ]
     },
     {
         "name":"Freerun!",
@@ -64,7 +82,10 @@
         "creator":"OutGames",
         "gamePage":"103939967246281",
         "availability":"Public",
-        "stage":"Indev"
+        "stage":"Indev",
+        "tags":[
+            "public","free","gear"
+        ]
     },
     {
         "name":"Mirage",
@@ -72,6 +93,9 @@
         "creator":"daddoud",
         "gamePage":"15656876067",
         "availability":"Public",
-        "stage":"Indev"
+        "stage":"Indev",
+        "tags":[
+            "public","free"
+        ]
     }
 ]

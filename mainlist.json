@@ -8,7 +8,7 @@
         "availability":"Public",
         "stage":"Release",
         "tags":[
-            "speed","time-trials","gear","social"
+            "speed","time-trials","gear","social","free","public"
         ]
     },
     {
@@ -20,7 +20,7 @@
         "availability":"Paid",
         "stage":"Alpha",
         "tags":[
-            "time-trials","gear","social","good-map","flow"
+            "time-trials","gear","social","good-map","flow","paid","public"
         ]
     },
     {
@@ -32,7 +32,7 @@
         "availability":"Public",
         "stage":"Release",
         "tags":[
-            "time-trials","flow"
+            "time-trials","flow","free","public"
         ]
     },
     {
@@ -44,7 +44,7 @@
         "availability":"Paid",
         "stage":"Alpha",
         "tags":[
-            "flow"
+            "flow","paid","public"
         ]
     },
     {
@@ -54,7 +54,10 @@
         "gamePage":"15474292384",
         "gameIcon":"rbxassetid://79643665355178",
         "availability":"Private",
-        "stage":"Indev"
+        "stage":"Indev",
+        "tags":[
+            "good-map","private","speed"
+        ]
     },
     {
         "name":"ADRENALINE",
@@ -63,7 +66,10 @@
         "gamePage":"18874188242",
         "gameIcon":null,
         "availability":"Private",
-        "stage":"Indev"
+        "stage":"Indev",
+        "tags":[
+            "private","good-map","flow"
+        ]
     },
     {
         "name":"Untitled Parkour Game",
@@ -74,7 +80,7 @@
         "availability":"Public",
         "stage":"Alpha",
         "tags":[
-            "gear","speed","good-map"
+            "gear","speed","good-map","public","free"
         ]
     },
     {
@@ -86,7 +92,7 @@
         "availability":"Public",
         "stage":"Release",
         "tags":[
-            "gear","speed","time-trials"
+            "gear","speed","time-trials","public","free"
         ]
     },
     {
@@ -98,7 +104,7 @@
         "availability":"Public",
         "stage":"Release",
         "tags":[
-            "time-trials"
+            "time-trials","public","free"
         ]
     }
 ]

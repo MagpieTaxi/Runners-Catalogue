@@ -8,7 +8,7 @@
         "availability":"Public",
         "stage":"Release",
         "tags":[
-            "good-map","speed"
+            "good-map","speed","free","public"
         ]
     },
     {
@@ -20,7 +20,7 @@
         "availability":"Public",
         "stage":"Release",
         "tags":[
-            "time-trials","good-map"
+            "time-trials","good-map","free","public"
         ]
     },
     {
@@ -30,16 +30,22 @@
         "gamePage":"85007555422372",
         "gameIcon":"rbxassetid://75298879610308",
         "availability":"Private",
-        "stage":"Indev"
+        "stage":"Indev",
+        "tags":[
+            "private"
+        ]
     },
     {
         "name":"Freeflow",
-        "description":"Beatrun-like game made by DumbFounded. In very early development. Has good movement and map stylization, and many talented developers helping the project. Very promising.",
+        "description":"In very early development. Movement techniques similar to Beatrun, with more focus on speed.",
         "creator":"NDM Development",
         "gamePage":"137591727198853",
         "gameIcon":"rbxassetid://111901590180583",
         "availability":"Private",
-        "stage":"Indev"
+        "stage":"Indev",
+        "tags":[
+            "speed","private"
+        ]
     },
     {
         "name":"Rinnox",
@@ -47,6 +53,9 @@
         "creator":"Dream's Entertainment",
         "gamePage":"124218382459762",
         "availability":"Private",
-        "stage":"Indev"
+        "stage":"Indev",
+        "tags":[
+            "speed","private"
+        ]
     }
 ]
