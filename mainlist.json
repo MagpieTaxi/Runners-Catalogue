@@ -60,18 +60,6 @@
         ]
     },
     {
-        "name":"ADRENALINE",
-        "description":"Almost entirely based on the Mirror's Edge series. A public demo will be available on the 25th of August.",
-        "creator":"RUSH Labs",
-        "gamePage":"18874188242",
-        "gameIcon":null,
-        "availability":"Private",
-        "stage":"Indev",
-        "tags":[
-            "private","good-map","flow"
-        ]
-    },
-    {
         "name":"Untitled Parkour Game",
         "description":"Acts as a successor and/or remake of Parkour Goofy, after it was discontinued. Inspired by PARKOUR Reborn, and has developed its own small community.",
         "creator":"A Silly Studio",
