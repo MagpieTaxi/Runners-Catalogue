@@ -72,18 +72,6 @@
         ]
     },
     {
-        "name":"District Cascade",
-        "description":"District Cascade is almost entirely based on the high-speed gameplay pioneered by PARKOUR Legacy. Feels very much like a sandbox parkour game. There really are no forces to ground you in this game.",
-        "creator":"Snowy",
-        "gamePage":"12507949635",
-        "gameIcon":"rbxassetid://103464602185527",
-        "availability":"Public",
-        "stage":"Release",
-        "tags":[
-            "gear","speed","time-trials","public","free"
-        ]
-    },
-    {
         "name":"Runner's Path",
         "description":"Only slightly younger of a game than Legacy, this is one of the very first parkour games on Roblox. Has not aged incredibly, but still a pretty good game.",
         "creator":"Flow Development",
