@@ -4,7 +4,6 @@
         "description":"Absolute hidden gem of a game. The gameplay isnt amazing, and it's quite lacking in content, but there is a full, high-quality map to explore, and many staple features like time trials. Definitely give it a try if you haven't.",
         "creator":"Just_Drak (@Bernardoinfo)",
         "gamePage":"17580628080",
-        "gameIcon":"rbxassetid://87384728881356",
         "availability":"Public",
         "stage":"Release",
         "tags":[
@@ -16,7 +15,6 @@
         "description":"Almost predating PARKOUR Legacy, this is one of the first Parkour projects to date. Heavily based off of the Mirror's Edge series, this game has a full gearless moveset and a fully traversable map. It contains time trials, and a 'bag hunting' mode.",
         "creator":"Pumpkin Head Studios",
         "gamePage":"599115627",
-        "gameIcon":"rbxassetid://107502799504438",
         "availability":"Public",
         "stage":"Release",
         "tags":[
@@ -28,7 +26,6 @@
         "description":"A brand new game by development group Xource Horizon. Seems to be heavily based on Mirror's Edge/Beatrun, like their other games. Let's hope this one doesn't get cancelled.",
         "creator":"Xource Horizon",
         "gamePage":"85007555422372",
-        "gameIcon":"rbxassetid://75298879610308",
         "availability":"Private",
         "stage":"Indev",
         "tags":[
@@ -37,8 +34,8 @@
     },
     {
         "name":"Strafe",
-        "description":"N/A",
-        "creator":"zlpds",
+        "description":"i worked on this game :]",
+        "creator":"Strafeworks",
         "gamePage":"107205390939183",
         "availability":"Public",
         "stage":"Beta",
@@ -51,7 +48,6 @@
         "description":"In very early development. Movement techniques similar to Beatrun, with more focus on speed.",
         "creator":"NDM Development",
         "gamePage":"137591727198853",
-        "gameIcon":"rbxassetid://111901590180583",
         "availability":"Private",
         "stage":"Indev",
         "tags":[
@@ -67,6 +63,38 @@
         "stage":"Indev",
         "tags":[
             "speed","private"
+        ]
+    },
+    {
+        "name":"Ascent Noir",
+        "description":"N/A",
+        "creator":"An Ascent Studios",
+        "gamePage":"123368294754191",
+        "availability":"Private",
+        "stage":"Indev",
+        "tags":[
+            "good-map", "private", "speed", "gear"
+        ]
+    },
+    {
+        "name":"Freefall Catalyst",
+        "description":"Decently faithful recreation of Mirror's Edge: Catalyst. Not the greatest, but definitely worth a try if you haven't already.",
+        "creator":"Sypsee",
+        "gamePage":"15299250391",
+        "availability":"Public",
+        "stage":"Release",
+        "tags":[
+            "free","public","good-map"
+        ]
+    },
+    {
+        "name":"Last Sunrise",
+        "description":"Less of a pure parkour game and more of a survival game, inspired mainly by the Dying Light series.",
+        "creator":"WHAT THE GAMES Inc",
+        "gamePage":"14716415427",
+        "stage":"Alpha",
+        "tags":[
+
         ]
     }
 ]
