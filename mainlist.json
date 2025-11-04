@@ -37,10 +37,10 @@
         "description":"Heavily based on and inspired by the Dying Light franchise. Very high quality, but highly lacking in content. Costs 1500 robux to buy access.",
         "creator":"RedScarf Studios",
         "gamePage":"18803917838",
-        "availability":"Paid",
+        "availability":"Public",
         "stage":"Alpha",
         "tags":[
-            "flow","paid","public"
+            "flow","free","public"
         ]
     },
     {

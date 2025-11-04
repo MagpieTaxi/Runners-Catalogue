@@ -75,16 +75,5 @@
         "tags":[
             "public","free","gear"
         ]
-    },
-    {
-        "name":"Mirage",
-        "description":"N/A",
-        "creator":"daddoud",
-        "gamePage":"15656876067",
-        "availability":"Public",
-        "stage":"Indev",
-        "tags":[
-            "public","free"
-        ]
     }
 ]
