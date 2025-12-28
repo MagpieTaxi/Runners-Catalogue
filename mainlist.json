@@ -34,7 +34,7 @@
     },
     {
         "name":"Dying2Parkour",
-        "description":"Heavily based on and inspired by the Dying Light franchise. Very high quality, but highly lacking in content. Costs 1500 robux to buy access.",
+        "description":"Heavily inspired by the Dying Light franchise. Full of diverse abilities and world gear to use to your advantage. Currently in it's demo stages and plans to stay open for a few months",
         "creator":"RedScarf Studios",
         "gamePage":"18803917838",
         "availability":"Public",
@@ -45,7 +45,7 @@
     },
     {
         "name":"Argon",
-        "description":"Heavy emphasis on speed-based movement. Plans to have in-depth gear crafting and upgrade mechanics. Currently private, but a public test session will be available soon. Check their pages for updates.",
+        "description":"Currently in development and plans to have a Stress Test in Q4 of 2025. Available for donations!",
         "creator":"Catbrew",
         "gamePage":"15474292384",
         "availability":"Private",
@@ -65,6 +65,17 @@
             "gear","speed","good-map","public","free"
         ]
     },
+	{
+        "name":"Strafe",
+        "description":"Very beginner-friendly parkour game centered around the mobile playerbase. Very little tech movement. The game is currently in active development with updates usually on a monthly basis.",
+        "creator":"Strafeworks",
+        "gamePage":"107205390939183",
+        "availability":"Public",
+        "stage":"Beta",
+        "tags":[
+            "public","free","time-trials","gear","speed"
+        ]
+    },
     {
         "name":"Runner's Path",
         "description":"Only slightly younger of a game than Legacy, this is one of the very first parkour games on Roblox. Has not aged incredibly, but still a pretty good game.",
@@ -78,7 +89,7 @@
     },
     {
         "name":"ADRENALINE",
-        "description":"N/A",
+        "description":"A heavily grounded game heavily inspired from Mirrors Edge. Currently closed with no release date. It is currently available for donations.",
         "creator":"RUSH Labs",
         "gamePage":"18874188242",
         "availability":"Private",

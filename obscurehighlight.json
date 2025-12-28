@@ -1,5 +1,16 @@
 [
     {
+        "name":"Freeflow",
+        "description":"In very early development. Movement techniques similar to Beatrun, with more focus on speed.",
+        "creator":"NDM Development",
+        "gamePage":"137591727198853",
+        "availability":"Private",
+        "stage":"Indev",
+        "tags":[
+            "speed","private"
+        ]
+    },
+    {
         "name":"Parkour Unleashed",
         "description":"Absolute hidden gem of a game. The gameplay isnt amazing, and it's quite lacking in content, but there is a full, high-quality map to explore, and many staple features like time trials. Definitely give it a try if you haven't.",
         "creator":"Just_Drak (@Bernardoinfo)",
@@ -32,28 +43,17 @@
             "private"
         ]
     },
-    {
-        "name":"Strafe",
-        "description":"i worked on this game :]",
-        "creator":"Strafeworks",
-        "gamePage":"107205390939183",
-        "availability":"Public",
-        "stage":"Beta",
-        "tags":[
-            "public","free","time-trials","gear","speed"
-        ]
-    },
-    {
-        "name":"Freeflow",
-        "description":"In very early development. Movement techniques similar to Beatrun, with more focus on speed.",
-        "creator":"NDM Development",
-        "gamePage":"137591727198853",
-        "availability":"Private",
-        "stage":"Indev",
-        "tags":[
-            "speed","private"
-        ]
-    },
+	{
+		"name":"Chain",
+		"description":"An in development parkour game inspired by the Mirrors Edge franchise. Very grounded game currently planned to have a playtest December 26th. ",
+		"creator":"End Point Development",
+		"gamePage":"99156526682217",
+		"availability":"Private",
+		"stage":"Indev",
+		"tags":[
+			"private"
+		]
+	},
     {
         "name":"Rinnox",
         "description":"Surrealistic movement emphasizing speed, similar to UPG's gameplay. In active development but currently private.",
@@ -76,6 +76,17 @@
             "good-map", "private", "speed", "gear"
         ]
     },
+	{
+		"name":"Inquiry",
+		"description":"N/A",
+		"creator":"TCBR",
+		"gamePage":"16755034058",
+		"availability":"Private",
+		"stage":"Indev",
+		"tags":[
+			"private"
+		]
+	},
     {
         "name":"Freefall Catalyst",
         "description":"Decently faithful recreation of Mirror's Edge: Catalyst. Not the greatest, but definitely worth a try if you haven't already.",
