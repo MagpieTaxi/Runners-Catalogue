@@ -1,5 +1,5 @@
 [
-{
+	{
         "name":"Last Sunrise",
         "description":"Less of a pure parkour game and more of a survival game, inspired mainly by the Dying Light series.",
         "creator":"WHAT THE GAMES Inc",
@@ -18,6 +18,17 @@
         "stage":"Alpha",
         "tags":[
             "public","free","speed"
+        ]
+	},
+	{
+		"name":"Highrise Rush",
+        "description":"Simplistic parkour racing game. ",
+        "creator":"City's Summit",
+        "gamePage":"131273255138534",
+        "availability":"Public",
+        "stage":"Release",
+        "tags":[
+            "public","free"
         ]
 	}
 ]
