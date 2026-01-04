@@ -1,13 +1,23 @@
 [
+{
+        "name":"Last Sunrise",
+        "description":"Less of a pure parkour game and more of a survival game, inspired mainly by the Dying Light series.",
+        "creator":"WHAT THE GAMES Inc",
+        "gamePage":"14716415427",
+        "stage":"Alpha",
+        "tags":[
+
+        ]
+    },
 	{
-		"name":"Funky Protocol",
-        "description":"Meant to be a recreation of the engine from Mirror's Edge, and does well with that. Currently discontinued and not planned to be updated.",
-        "creator":"JunkBunz",
-        "gamePage":"10706220045",
+		"name":"SPEEDCHASER",
+        "description":"Parkour movement shooter. What more could you ask for?",
+        "creator":"TwinByte Studio",
+        "gamePage":"122096688644761",
         "availability":"Public",
         "stage":"Alpha",
         "tags":[
-            "public","free"
+            "public","free","speed"
         ]
 	}
 ]
